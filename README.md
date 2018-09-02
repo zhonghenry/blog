@@ -10,7 +10,7 @@
 ```
 cnpm install
 ```
-5. 运行：
+5.   运行：
 ```
 set DEBUG=blog & node ./bin/www
 ```
